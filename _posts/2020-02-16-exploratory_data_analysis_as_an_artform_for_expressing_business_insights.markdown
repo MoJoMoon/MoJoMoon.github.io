@@ -26,7 +26,7 @@ This boxplot is beautiful to me. It expresses the trend in movie length of the t
 
 ``` python
 # Create a plot and define its size.
-plt.figure(figsize=(15, 10))
+    plt.figure(figsize=(15, 10))
 # Draw a boxplot showing the runtime minute distributions among the ranges of
 # production budget.
 sns.boxplot(x=df_prod_100['budget_range'],
@@ -48,7 +48,7 @@ With the information that this plot shares, a film studio could make more inform
 
 And when applying the same intentions through python, the end result appears like this:
 
-![title](img/eda1_3.png)
+![alt text](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/eda1_3.png)
 
 Here we can see so many stories being told. I can see that typically an American film's production budget does not increase it's US domestic gross, as well as worldwide gross, at least when the budget is over 150 million dollars. There is also a very strong almost linear correlation between a film's domestic gross and worldwide gross, which may come to no one's surprise.
 
