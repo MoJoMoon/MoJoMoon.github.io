@@ -1,11 +1,11 @@
 # Site settings
 author: Morgan Jones
-title: 
+title: Datistician at Work
 header-img: img/home-bg.png
 email: morganjonesartist@gmail.com
 copyright_name: Morgan Jones
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Focusing on the transformative power of data
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MoJoMoon
