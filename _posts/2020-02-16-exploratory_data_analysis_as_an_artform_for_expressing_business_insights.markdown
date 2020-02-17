@@ -16,11 +16,11 @@ Upon answering this question, they would like me to translate these findings int
 
 After the data mining and cleaning stages were complete, it was time to begin making visualizations of the data. I see this stage as a way to listen to the story the data wants to tell. Just like any other part of the world that an artist wants to express, whether external or internal the ability to listen is key. This is how an artist can then express something, and with any luck it will be with a perspective that is new and visceral for those experiencing the art. Where in the past my expression may have looked like this:
 
-![](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/paintingm_m.JPG)
+![](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/paintingm_m.JPG?raw=true)
 
 It now takes a new shape:
 
-![](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/eda1_5.png)
+![](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/eda1_5.png?raw=true)
 
 This boxplot is beautiful to me. It expresses the trend in movie length of the top 100 grossing contemporary films by their production budget. It makes apparent something that many of us movie-goers already know but perhaps had not seen put in these terms, the fact that most high budget movies are over 2 hours long. What will never cease to amaze me is the fact that as opposed to hours of brushing, allowing paint to dry, head tilting and brushing some more, this art was created with only a few lines of code:
 
@@ -48,7 +48,7 @@ With the information that this plot shares, a film studio could make more inform
 
 And when applying the same intentions through python, the end result appears like this:
 
-![](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/eda1_3.png)
+![](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/eda1_3.png?raw=true)
 
 Here we can see so many stories being told. I can see that typically an American film's production budget does not increase it's US domestic gross, as well as worldwide gross, at least when the budget is over 150 million dollars. There is also a very strong almost linear correlation between a film's domestic gross and worldwide gross, which may come to no one's surprise.
 
