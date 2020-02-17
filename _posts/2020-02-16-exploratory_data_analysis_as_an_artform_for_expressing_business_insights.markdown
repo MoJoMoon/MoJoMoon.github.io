@@ -16,6 +16,7 @@ Upon answering this question, they would like me to translate these findings int
 
 After the data mining and cleaning stages were complete, it was time to begin making visualizations of the data. I see this stage as a way to listen to the story the data wants to tell. Just like any other part of the world that an artist wants to express, whether external or internal the ability to listen is key. This is how an artist can then express something, and with any luck it will be with a perspective that is new and visceral for those experiencing the art. Where in the past my expression may have looked like this:
 
+
 ![](https://github.com/MoJoMoon/dsc-mod-1-project-v2-1-onl01-dtsc-ft-012120/blob/master/img/paintingm_m.JPG?raw=true)
 
 It now takes a new shape:
