@@ -50,6 +50,10 @@ And when applying the same intentions through python, the end result appears lik
 
 ![title](img/eda1_3.png)
 
+Here we can see so many stories being told. I can see that typically an American film's production budget does not increase it's US domestic gross, as well as worldwide gross, at least when the budget is over 150 million dollars. There is also a very strong almost linear correlation between a film's domestic gross and worldwide gross, which may come to no one's surprise.
+
+As someone who considers themselves to be a data enthusiast and an artist, I find myself immersed in something I love, connecting to some part of the world and learning from it and expressing that lesson. In the business world I find that this is an invaluable ability, and one I intend to improve throughout my time in my Data Science cohort with Flatiron School.
+
 
 
 
