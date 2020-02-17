@@ -42,6 +42,14 @@ plt.ylabel('Runtime Minutes', fontsize=15)
 plt.show()
 ```
 
+With the information that this plot shares, a film studio could make more informed decisions about the runtime of a film they plan to make in the future based on the budget they have allocated for it's production. The exploratory data analysis phase gives the data handler much opportunity to make a statement, or several. One of the most powerful and beautiful plots I find is the `seaborn pairplot`, as it tells so many stories at once, all of which share the same core. As an artist, when I made such an expression it would reveal itself like this:
+
+![title](img/painting_better_multiple.JPG)
+
+And when applying the same intentions through python, the end result appears like this:
+
+![title](img/eda1_3.png)
+
 
 
 
