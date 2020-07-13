@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Deep Learning for Diversity Inclusion in Media"
-date:       2020-07-10 09:23:28 +0000
+date:       2020-07-10 05:23:29 -0400
 permalink:  deep_learning_for_diversity_inclusion_in_media
 ---
 
