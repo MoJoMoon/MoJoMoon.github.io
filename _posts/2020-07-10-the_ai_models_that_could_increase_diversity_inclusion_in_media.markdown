@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "The AI Models that Could Increase Diversity Inclusion in Media"
-date:       2020-07-10 09:27:52 +0000
+date:       2020-07-10 05:27:53 -0400
 permalink:  the_ai_models_that_could_increase_diversity_inclusion_in_media
 ---
 
 
-I am a person of color. In myself this is not something I feel that defines me, it is not something that I identify myself as. If I were a hermit, never interacting with other people for years I have the intuition that this definition would evaporate from my perspective. My skin color would not fade, but its relative meaning would, there would be no one for me to be lighter or darker than.
+I am a person of color. In myself however this is not something I feel that defines me as a person. If I were a hermit, never interacting with other people for years I have the intuition that this definition would evaporate from my perspective. My skin color would not fade, but its relative meaning would, there would be no one for me to be lighter or darker than.
 However I am not isolated from the world, no matter how much I put energy to isolating my worldview from the binding pressures of the collective conscious we often refer to as society and culture. Our society has historically and presently been vitiated by a bias around not only ethnicity, but gender, sexuality, age, and nearly any other symbol one can use to represent themselves, and therefore others. While it is debatable whether bias is an inherent human quality, and perhaps even deeper a basic parameter of observation, at present the racial biases that we refer to as racism has expressed itself for so long, like a while loop with no stop condition that runs ad infinitum until it inexorably crashes our shared system. Many of us today find ourselves, and our efforts attempting to make a break statement that stops this flow and heals the damage it has caused.
 There are many ways one can perceive and define bias. As a someone who practices data science, I am familiar with the ways that an abundance of bias can render algorithms that are meant to understand the world skewed and unfunctional. Often when my machine learning models are suffering from bias it is due to the data they are fed. All too often I find myself comparing people to these ML algorithms, that have been fed information about the world, and labels about themselves that are misshapen and not aligned with reality. I wanted to address this phenomenon particularly in the dimension of media as it is where so many of us receive the lion’s share of data about the world, and use machine learning to empower those that desire to, the means to take action against this bias.
 Enter Generative Adversarial Networks
